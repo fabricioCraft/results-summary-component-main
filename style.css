@@ -173,8 +173,6 @@ html {
         height: 100vh;
     }
 
-}
-
 .container {
     flex-direction: row;
     box-shadow: 10px 10px 20px hsl(241, 100%, 89%);
@@ -186,4 +184,5 @@ html {
 .result-container,
 .summary-container {
     width: 50%;
+}
 }
